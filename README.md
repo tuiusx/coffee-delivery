@@ -4,11 +4,17 @@
 
 # **💻** Projeto
 
-Quem, como desenvolvedor - nunca teve (ou pelo menos tentou) criar um e-commerce? 
+Desenvolver um site de comércio eletrônico pode ser um desafio, mas também é uma das experiências mais gratificantes quando está concluído. Eu tive a oportunidade de passar por essa experiência e gostaria de compartilhar a minha visão.
 
-Hoje, com o crescimento da internet, a loja que não está no digital praticamente não existe no mundo real. 
+Desenvolver um site de comércio eletrônico pode ser um desafio, mas também é uma das experiências mais gratificantes quando está concluído. Eu tive a oportunidade de passar por essa experiência e gostaria de compartilhar a minha visão.
 
-Como desenvolvedor, uma das maiores demanda é a criação de e-commerce e, a fim consolidar meus conhecimentos sendo alinhado com as novas e melhores práticas e tecnologias disponíveis no mundo da tecnologia, durante o programa de aceleração “Ignite - ReactJS”, promovido pela Rocketseat, desenvolvi como desafio para consolidade meus conhecimentos adquidos uma aplicação Frontend de carrinho de compras de café, contendo página de opções e seleção de pedidos, página de finalização do pedido e informações de entrega.
+Em seguida, todo o design do site precisou ser criado. Desde a escolha das cores até a criação do logotipo, tudo foi pensado com muito cuidado para garantir que o design fosse atrativo e fácil de navegar.
+
+A próximaapa foi o desenvolvimento do site Utilizando as tecnologias mais atualizadas, o site foi criado para ter uma boa performance e ser facilmente acessível por qualquer dispositivo eletrônico.
+
+Por fim, a criação do catálogo de produtos foi concluída. Nessa etapa, trabalhamos com diferentes lojas online para integrar um grande número de produtos em nossa plataforma. Isso exigiu muita dedicação e trabalho em equipe, mas no final o resultado foi incrível.
+
+Desenvolver um site de comércio eletrônico pode ser um grande desafio, mas quando todo o processo é concluído e o site está no ar, a sensação de realização é inesquecível. Além disso, saber que o site está ajudando a conectar consumidores a uma variedade de produtos em uma única plataforma é muito gratificante.
 
 Utilizei como tecnologia Vite, ReactJS, ContextAPI, React Hooks, Styled Components, Zod, React Hook Form, etc.
 
